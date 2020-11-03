@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=RS_CNTRL Pin=U3-38
+Added Pin To Net: NetName=RS_CNTRL Pin=U3-5

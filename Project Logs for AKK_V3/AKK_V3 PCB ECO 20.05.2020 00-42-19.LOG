@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=+3.3V Pin=C1-1
+Removed Pin From Net: NetName=GND Pin=C1-2
+Removed Member From Class: ClassName=AKK_V3 Member=C1
+Added Member To Class: ClassName=AKK_V3 Member=Component J23 2.54mm HEADER
+Added Member To Class: ClassName=AKK_V3 Member=Component LD2 =Value
+Added Room: Name=AKK_V3

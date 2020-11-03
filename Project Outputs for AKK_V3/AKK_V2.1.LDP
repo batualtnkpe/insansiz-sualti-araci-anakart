@@ -1,0 +1,4 @@
+Layer Pairs Export File for PCB: E:\BATUHAN DOSYALAR\PCB TASARIMLAR\SUALTI DOSYALAR\AKK_V3\AKK_V3\AKK_V2.1.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=akk_v2.1.txt|DrillLayers=gtl,gp1,gp2,gbl
+LayersSetName=Top_Int2 (PWR)_Blind_Vias|DrillFile=akk_v2.1.tx1|DrillLayers=gtl,gp1,gp2
+LayersSetName=Int2 (PWR)_Bot_Blind_Vias|DrillFile=akk_v2.1.tx2|DrillLayers=gp2,gbl

@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=LSR_1 Pin=J8-1
+Removed Pin From Net: NetName=LSR_2 Pin=J8-2
+Removed Pin From Net: NetName=LSR_3 Pin=J8-3
+Removed Pin From Net: NetName=LSR_4 Pin=J8-4
+Removed Pin From Net: NetName=LSR_5 Pin=J8-5
+Removed Member From Class: ClassName=AKK_V3 Member=J8

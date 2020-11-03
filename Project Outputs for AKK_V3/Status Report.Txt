@@ -1,0 +1,14 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [AKK_V3.PrjPcb]
+   Generated File[AKK_V2.1.TXT]
+   Generated File[AKK_V2.1.TX1]
+   Generated File[AKK_V2.1.TX2]
+   Generated File[AKK_V2.1.LDP]
+   Generated File[AKK_V2.1.DRR]
+
+
+Files Generated   : 5
+Documents Printed : 0
+
+Finished Output Generation At 19:33:50 On 14.08.2020

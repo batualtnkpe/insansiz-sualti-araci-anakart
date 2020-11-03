@@ -1,0 +1,84 @@
+Removed Pin From Net: NetName=+5V Pin=J22-1
+Removed Pin From Net: NetName=SÝNYAL_1 Pin=J22-2
+Removed Pin From Net: NetName=SÝNYAL_2 Pin=J22-3
+Removed Pin From Net: NetName=GND Pin=J22-4
+Removed Pin From Net: NetName=SÝNYAL_3 Pin=J23-2
+Removed Pin From Net: NetName=SÝNYAL_4 Pin=J23-3
+Change Component Footprint: Designator=J23 Old Footprint=2.54mm 4 pin New Footprint=2.54MM_HEADER
+Change Component Comment : Designator=J23 Old Comment=2.54MM 4 PÝN New Comment=2.54mm HEADER
+Change Component Comment : Designator=J22 Old Comment=2.54MM 4 PÝN New Comment=CAP ALU 63x53 100u 6.3V 20%
+Change Component Designator: OldDesignator=B? NewDesignator=B1
+Change Component Designator: OldDesignator=C? NewDesignator=C2
+Change Component Designator: OldDesignator=C? NewDesignator=C3
+Change Component Designator: OldDesignator=C? NewDesignator=C4
+Change Component Designator: OldDesignator=C? NewDesignator=C5
+Change Component Designator: OldDesignator=C? NewDesignator=C6
+Change Component Designator: OldDesignator=C? NewDesignator=C7
+Change Component Designator: OldDesignator=C? NewDesignator=C8
+Change Component Designator: OldDesignator=C? NewDesignator=C9
+Change Component Designator: OldDesignator=C? NewDesignator=C10
+Change Component Designator: OldDesignator=C? NewDesignator=C11
+Change Component Designator: OldDesignator=J22 NewDesignator=C1
+Change Component Designator: OldDesignator=J23 NewDesignator=J22
+Change Component Designator: OldDesignator=LD? NewDesignator=LD1
+Change Component Designator: OldDesignator=LD? NewDesignator=LD2
+Change Component Designator: OldDesignator=LD? NewDesignator=LD3
+Change Component Designator: OldDesignator=R? NewDesignator=R1
+Change Component Designator: OldDesignator=R? NewDesignator=R2
+Change Component Designator: OldDesignator=R? NewDesignator=R3
+Change Component Designator: OldDesignator=R? NewDesignator=R4
+Change Component Designator: OldDesignator=R? NewDesignator=R5
+Change Component Designator: OldDesignator=R? NewDesignator=R6
+Change Component Designator: OldDesignator=R? NewDesignator=R7
+Change Component Designator: OldDesignator=U? NewDesignator=U1
+Change Component Designator: OldDesignator=U? NewDesignator=U2
+Change Component Designator: OldDesignator=X? NewDesignator=X1
+Change component parameters: Designator = "J22" ("C1"); Footprint = "2.54mm 4 pin"; UniqueID = "\JHJAHHYZ" ("\JHJAHHYZ")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Created"; Value = "2013-09-28"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Last Updated"; Value = "2014-02-17"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "598-AVE107M06D16T-F"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficiënt"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "20%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "6.3V"; VariantName = "[No Variations]"
+Added Component: Designator=J23(2.54MM_HEADER)
+Added Pin To Net: NetName=+3.3V Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=SÝNYAL_1 Pin=J22-2
+Added Pin To Net: NetName=SÝNYAL_2 Pin=J22-3
+Added Pin To Net: NetName=+5V Pin=J23-1
+Added Pin To Net: NetName=SÝNYAL_3 Pin=J23-2
+Added Pin To Net: NetName=SÝNYAL_4 Pin=J23-3
+Added Pin To Net: NetName=GND Pin=J23-4
+Change Net Name : Old Net Name=NetC?_1 New Net Name=NetC9_1
+Change Net Name : Old Net Name=NetLD?_1 New Net Name=NetLD1_1
+Change Net Name : Old Net Name=NetLD?_1 New Net Name=NetLD2_1
+Change Net Name : Old Net Name=NetLD?_1 New Net Name=NetLD3_1
+Change Net Name : Old Net Name=NetR?_1 New Net Name=NetR1_1
+Change Net Name : Old Net Name=NetR?_1 New Net Name=NetR2_1
+Added Member To Class: ClassName=AKK_V3 Member=Component C3 =Value
+Added Member To Class: ClassName=AKK_V3 Member=Component C4 =Value
+Added Member To Class: ClassName=AKK_V3 Member=Component C5 =Value
+Added Member To Class: ClassName=AKK_V3 Member=Component C6 =Value
+Added Member To Class: ClassName=AKK_V3 Member=Component C7 =Value
+Added Member To Class: ClassName=AKK_V3 Member=Component C8 =Value
+Added Member To Class: ClassName=AKK_V3 Member=Component C9 =Value
+Added Member To Class: ClassName=AKK_V3 Member=Component C10 =Value
+Added Member To Class: ClassName=AKK_V3 Member=Component C11 =Value
+Added Member To Class: ClassName=AKK_V3 Member=Component J23 2.54mm HEADER
+Added Member To Class: ClassName=AKK_V3 Member=Component LD1 =Value
+Added Member To Class: ClassName=AKK_V3 Member=Component LD3 =Value
+Added Member To Class: ClassName=AKK_V3 Member=Component R2 =Value
+Added Member To Class: ClassName=AKK_V3 Member=Component R3 =Value
+Added Member To Class: ClassName=AKK_V3 Member=Component R4 =Value
+Added Member To Class: ClassName=AKK_V3 Member=Component R5 =Value
+Added Member To Class: ClassName=AKK_V3 Member=Component R6 =Value
+Added Member To Class: ClassName=AKK_V3 Member=Component R7 =Value
+Added Member To Class: ClassName=AKK_V3 Member=Component U1 LM2940-5V
+Added Room: Name=AKK_V3
